@@ -20,4 +20,4 @@ A low profile hardware design for [Jon Oxer's ZeroStick](https://github.com/Supe
 ![ZeroPad Top](https://github.com/PancakeLegend/ZeroPad/blob/main/Images/ZeroPad-Top.jpg)
 ![ZeroPad Internal](https://github.com/PancakeLegend/ZeroPad/blob/main/Images/ZeroPad-Internal.jpg)
 ![ZeroPad Bottom](https://github.com/PancakeLegend/ZeroPad/blob/main/Images/ZeroPad-Bottom.jpg)
-
+![ZeroPad PCB](https://github.com/PancakeLegend/ZeroPad/blob/main/Images/ZeroPad-PCB.jpg)
