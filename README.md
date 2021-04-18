@@ -14,7 +14,7 @@ A low profile hardware design for [Jon Oxer's ZeroStick](https://github.com/Supe
 
 2x 5x2mm N52 disc magnet
 
-30mmx30mm 0.5mm adhesive backed EVA foam
+30x30mm 0.5mm adhesive backed EVA foam
 
 
 ![ZeroPad Top](https://github.com/PancakeLegend/ZeroPad/blob/main/Images/ZeroPad-Top.jpg)
